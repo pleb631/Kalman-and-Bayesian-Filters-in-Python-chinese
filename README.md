@@ -2,7 +2,7 @@
 
 这是一个静态网页目录，用于浏览《Kalman and Bayesian Filters in Python》的中文学习资料。打开根目录的 [index.html](index.html)，即可从课程目录进入各个章节；所有页面均可离线阅读。
 
-在线访问地址：[https://pleb631.github.io/Kalman-and-Bayesian-Filters-in-Python-chinense/](https://pleb631.github.io/Kalman-and-Bayesian-Filters-in-Python-chinense/)
+在线访问地址：[https://pleb631.github.io/Kalman-and-Bayesian-Filters-in-Python-chinese/](https://pleb631.github.io/Kalman-and-Bayesian-Filters-in-Python-chinese/)
 
 ## 内容来源
 
